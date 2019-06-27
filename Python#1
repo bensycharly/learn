@@ -35,6 +35,14 @@ name='Bensy'
 print(name)
 print(name+'Charly')
 print(name+' Charly')
-
-
-
+print(name[0])
+print(name[4])
+print(name[-1])
+print(name[-4])
+print(name[0:3])
+print(name[1:])
+print(name[:10])
+print(name[2:4])
+print('my ' + name)
+myname='Bensy'
+print(len(myname))
