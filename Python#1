@@ -1,3 +1,11 @@
+'''
+
+                            Online Python Interpreter.
+                Code, Compile, Run and Debug python program online.
+Write your code in this editor and press "Run" button to execute it.
+
+'''
+
 print(2+3)
 print(3-1)
 print(2+3-3)
@@ -17,3 +25,16 @@ print('Bensy"\s')
 print('Bensy\'s '+'PC')
 print(r'c:\doc\no\xy')
 print('doc\nxy')
+x=2+3
+print(x)
+y=2
+print(x+y)
+x=9
+print(x+y)
+name='Bensy'
+print(name)
+print(name+'Charly')
+print(name+' Charly')
+
+
+
